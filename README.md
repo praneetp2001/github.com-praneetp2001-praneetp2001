@@ -1,6 +1,6 @@
 # Hi, I'm Praneet 👋
 
-AI Engineer | Machine Learning Engineer | Data Scientist
+AI Engineer | Data Scientist
 
 I build production ready AI systems that combine LLMs, machine learning, and scalable backend engineering to solve real world problems.
 
